@@ -1,6 +1,6 @@
 # Marcos - Desenvolvedor Backend 🚀
 
-Olá, sou Marcos! Desenvolvedor Backend apaixonado por transformar ideias em soluções reais. Sempre em busca de aprendizado contínuo e inovação, procuro aplicar as melhores práticas e as tecnologias mais modernas para entregar resultados de alta qualidade e colaborar de forma eficaz com equipes.
+Olá, sou Marcos! Desenvolvedor Backend apaixonado por transformar ideias em soluções reais. Sempre em busca de aprendizado contínuo e inovação.
 
 ---
 
@@ -19,6 +19,7 @@ Olá, sou Marcos! Desenvolvedor Backend apaixonado por transformar ideias em sol
 - **Experiência em**:  
   - Desenvolvimento Backend
   - Processos de Treinamento e Desenvolvimento (T&D) de pessoas
+  - Gestão de Recursos Humanos
 
 ---
 
@@ -34,7 +35,7 @@ Trabalho com o objetivo de ajudar minha equipe a crescer e alcançar os melhores
 
 Se você procura um profissional dedicado, que se adapta rapidamente a novos desafios e contribui para a evolução de projetos e equipes, estou à disposição!
 
-### Conecte-se comigo:
+### Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvinisantana)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini.santanx)
