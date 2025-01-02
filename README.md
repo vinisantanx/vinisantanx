@@ -4,8 +4,7 @@ Olá, sou Marcos! Desenvolvedor Backend apaixonado por transformar ideias em sol
 
 ---
 
-## 🌟 Minhas especialidades
-
+## ....
 - **Tecnologias**:  
   - React
   - Node.js
