@@ -18,8 +18,6 @@ Olá, sou Marcos! Desenvolvedor Backend apaixonado por transformar ideias em sol
 - **Experiência em**:  
   - Desenvolvimento Backend
   - Processos de Treinamento e Desenvolvimento (T&D) de pessoas
-  - Recursos Humanos
-  - Departamento Pessoal
 
 ---
 
