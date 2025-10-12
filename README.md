@@ -15,12 +15,12 @@ Tenho conhecimento com ferramentas e linguagens voltadas à análise de dados e 
 
 ## 🧠 Habilidades e Ferramentas
 
-- **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)  
-- **SQL** (consultas, joins, análise e manipulação de dados)  
-- **Power BI** (dashboards interativos e análise visual)  
-- **Excel Avançado** (tratamento, visualização e KPIs de RH)
-- **Estatística e métricas de RH** (turnover, absenteísmo, engajamento, desempenho)
-- **Node** (React, Nest, Express)
+- **Python**
+- **SQL**
+- **Power BI** 
+- **Excel 
+- **Estatística e métricas de RH**
+- **Node**
 ---
 
 ## 📈 Interesses Atuais
