@@ -32,7 +32,7 @@ Tenho conhecimento com ferramentas e linguagens voltadas à análise de dados e 
 ---
 
 Tenho o Hobbie de programar nas horas vagas... não se assustem os repositórios com poucos projetos, perdi meu antigo Github.
-
+Quero também compartilhar nesse github, projetos voltados para RH.
 ## 📫 Contato
 
 - 💼 [LinkedIn]((https://www.linkedin.com/in/marvinisantana/))
