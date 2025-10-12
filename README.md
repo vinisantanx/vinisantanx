@@ -18,7 +18,7 @@ Tenho conhecimento com ferramentas e linguagens voltadas à análise de dados e 
 - **Python**
 - **SQL**
 - **Power BI** 
-- **Excel 
+- **Excel**
 - **Estatística e métricas de RH**
 - **Node**
 ---
