@@ -35,9 +35,9 @@ Tenho o Hobbie de programar nas horas vagas... não se assustem os repositórios
 Quero também compartilhar nesse github, projetos voltados para RH.
 ## 📫 Contato
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/marvinisantana/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/marvinisantana/)
 - 📧 **marcosdev.working@gmail.com**
-- 📱 **71985125048**
+- 📱  [Whatsapp](https://wa.me/71985125048)
 
 <p align="center">
   <img 
