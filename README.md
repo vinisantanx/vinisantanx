@@ -1,6 +1,6 @@
 
 🎓**Graduando em Gestão de Recursos Humanos**  
-💡**Apaixonado por Técnologia, Dados e Gestão de Pessoas**  
+💡**Apaixonado por Técnologia, Dados e Unir Gestão de pessoas a dados.
 
 ---
 
