@@ -8,12 +8,9 @@
 
 # 🤖 SYSTEM CORE
 
-```bash
-Initializing...
+```bash
 ✔ Backend Developer
-✔ Data Analyst
-✔ Lifelong Learner
-STATUS: ONLINE 🚀
+✔ Data Analyst
 ```
 
 # 👨‍💻 About Me
