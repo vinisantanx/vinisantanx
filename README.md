@@ -25,14 +25,7 @@ I enjoy working with Python, Java, SQL, JavaScript, TypeScript, React, Node.js, 
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,nodejs,nestjs,docker,mysql,git,github,vscode&perline=7"/>
-</div>
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinisantanx&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisantanx&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 <br><br>
 
