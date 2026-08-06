@@ -10,14 +10,15 @@
 
 ```bash
 ✔ Backend Developer
-✔ Data Analyst
-```
+✔ Data Analyst```
 
 # 👨‍💻 About Me
 
 ```
-Junior Data Analyst and Backend Developer passionate about building efficient, scalable, and data-driven solutions.
-My journey in technology combines software development and data analysis, allowing me to solve problems from different perspectives. I enjoy working with Python, Java, SQL, JavaScript, TypeScript, React, Node.js, and NestJS, always looking for clean code and best practices
+Junior Data Analyst and Backend Developer passionate about building efficient. scalable, and data-driven solutions.
+
+My journey in technology combines software development and data analysis, allowing me to solve problems from different perspectives. 
+I enjoy working with Python, Java, SQL, JavaScript, TypeScript, React, Node.js, and NestJS, always looking for clean code and best practices
 ```
 # ⚙️ Tech Stack
 
