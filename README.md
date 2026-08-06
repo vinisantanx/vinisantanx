@@ -10,7 +10,8 @@
 
 ```bash
 ✔ Backend Developer
-✔ Data Analyst```
+✔ Data Analyst
+```
 
 # 👨‍💻 About Me
 
