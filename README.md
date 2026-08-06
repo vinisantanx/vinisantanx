@@ -18,26 +18,9 @@ STATUS: ONLINE 🚀
 
 # 👨‍💻 About Me
 
-```javascript
-const Marcos = {
-  name: "Marcos",
-  github: "vinisantanx",
-  linkedin: "marvinisantana",
-  role: ["Backend Developer","Data Analyst"],
-  location: "Bahia, Brazil 🇧🇷",
-  education: ["Human Resources","Software Development"],
-  learning: [
-    "Software Engineering",
-    "Backend Development",
-    "Artificial Intelligence",
-    "Data Engineering"
-  ],
-  skills: [
-    "Python","Java","JavaScript","TypeScript","React",
-    "Node.js","NestJS","HTML","CSS","SQL","Docker","Git","GitHub"
-  ],
-  motto: "Consistency beats motivation. 🚀"
-}
+```
+Junior Data Analyst and Backend Developer passionate about building efficient, scalable, and data-driven solutions.
+My journey in technology combines software development and data analysis, allowing me to solve problems from different perspectives. I enjoy working with Python, Java, SQL, JavaScript, TypeScript, React, Node.js, and NestJS, always looking for clean code and best practices
 ```
 # ⚙️ Tech Stack
 
