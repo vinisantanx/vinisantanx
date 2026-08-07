@@ -8,7 +8,8 @@
 
 # 🤖 SYSTEM CORE
 
-```bash
+```bash
+
 ✔ Backend Developer
 ✔ Data Analyst
 ```
@@ -25,19 +26,15 @@ I enjoy working with Python, Java, SQL, JavaScript, TypeScript, React, Node.js, 
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,nodejs,nestjs,docker,mysql,git,github,vscode&perline=7"/>
-</div>
+</div>
+
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantanx&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-# 🐍 Contribution Animation
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/vinisantanx/vinisantanx/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
 
 # 🌎 Connect With Me
 
