@@ -48,6 +48,11 @@ I enjoy working with Python, Java, SQL, JavaScript, TypeScript, React, Node.js, 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://api.whatsapp.com/send/?phone=5571985125048&text&type=phone_number&app_absent=0">
+<img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=linkedin&logoColor=white%22"/>
+</a>
+
+
 </div>
 
 <div align="center">
