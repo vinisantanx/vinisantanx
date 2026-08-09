@@ -6,12 +6,12 @@
 
 </div>
 
-# 🤖 SYSTEM CORE
+# 🤖 roles
 
 ```bash
-
 ✔ Backend Developer
 ✔ Data Analyst
+✔ People Analytics(Hr)
 ```
 
 # 👨‍💻 About Me
